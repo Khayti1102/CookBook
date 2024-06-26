@@ -1,6 +1,12 @@
-# CookBook
-This is a food recipe app.
-It includes an onboarding screen from where on clicking "Get Started" it takes you to the Home screen .
-Home screen includes several button with food images categorised in Deserts and Chinese dishes.
-Clicking on any of these opens a screen which shows you how to cook that particular dish via a video and some instructions and information about it below the video .
 
+# Cooking Campanion
+
+Developed a cookbook app using Kotlin that features a user-friendly interface for discovering and preparing various dishes. The app includes a home page with a "Get Started" button leading to a search bar, trending dishes, and categories such as Chinese, Indian, etc. Users can click on a category to view videos, ingredients, and step-by-step cooking instructions for each dish. This project demonstrates proficiency in Android development, UI/UX design, and integrating multimedia content.
+
+## Features
+
+- Home page with "Get Started" button
+- Search bar for finding recipes
+- Trending dishes section
+- Categories (Chinese, Indian, etc.) for recipe selection
+- Detailed recipe pages with videos, ingredients, and steps
